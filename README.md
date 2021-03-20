@@ -6,8 +6,10 @@
 
 ## 利用ツール
 slack
+Googleカレンダー
+Hubot
 ## 言語
-python
+python: ver3.6
 ## 環境構築
 Dockerfile
 docker-compose.yml
