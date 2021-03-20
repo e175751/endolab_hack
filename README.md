@@ -16,3 +16,7 @@ Slack (WorkSpace: NLPタスク研)
 + github上に上げる際は、ブランチがfeature_work-[number]になっていること
 + mergeする際は、featureブランチになっていること
 + コンフリクトを起こしたら、各々で修正すること
+## Git commit message
++ Add: 追加
++ Fix: 修正
++ Rm:  削除
