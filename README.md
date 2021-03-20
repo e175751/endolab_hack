@@ -11,6 +11,7 @@ python
 ## 環境構築
 Dockerfile
 docker-compose.yml
+Slack (WorkSpace: NLPタスク研)
 ## 作業中の注意点
 + github上に上げる際は、ブランチがfeature_work-[number]になっていること
 + mergeする際は、featureブランチになっていること
