@@ -1,1 +1,6 @@
 slackbot
+datetime
+slacker
+slackeventsapi
+flask
+python-dotenv
